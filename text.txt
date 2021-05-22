@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D288-0543
+
+ Directory of C:\Users\HP PC\OneDrive\Desktop\MyPractice
+
+23-May-21  01:40    <DIR>          .
+23-May-21  01:40    <DIR>          ..
+23-May-21  01:40                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  26,795,102,208 bytes free
